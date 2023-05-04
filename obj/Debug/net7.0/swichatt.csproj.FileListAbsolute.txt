@@ -1,0 +1,15 @@
+C:\Users\46378668809\Desktop\swichatt\bin\Debug\net7.0\swichatt.exe
+C:\Users\46378668809\Desktop\swichatt\bin\Debug\net7.0\swichatt.deps.json
+C:\Users\46378668809\Desktop\swichatt\bin\Debug\net7.0\swichatt.runtimeconfig.json
+C:\Users\46378668809\Desktop\swichatt\bin\Debug\net7.0\swichatt.dll
+C:\Users\46378668809\Desktop\swichatt\bin\Debug\net7.0\swichatt.pdb
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.csproj.AssemblyReference.cache
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.AssemblyInfoInputs.cache
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.AssemblyInfo.cs
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.csproj.CoreCompileInputs.cache
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.dll
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\refint\swichatt.dll
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.pdb
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\swichatt.genruntimeconfig.cache
+C:\Users\46378668809\Desktop\swichatt\obj\Debug\net7.0\ref\swichatt.dll
